@@ -1,0 +1,24 @@
+{
+  "name": "LeapYearCLI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHemanthRaju/Leap_Year_CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KHemanthRaju/Leap_Year_CLI/issues"
+  },
+  "homepage": "https://github.com/KHemanthRaju/Leap_Year_CLI#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "readline-sync": "^1.4.10"
+  }
+}
