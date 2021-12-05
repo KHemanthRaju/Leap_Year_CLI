@@ -1,6 +1,7 @@
 {
   "name": "LeapYearCLI",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,7 +19,7 @@
   },
   "homepage": "https://github.com/KHemanthRaju/Leap_Year_CLI#readme",
   "dependencies": {
-    "chalk": "^5.0.0",
+    "chalk": "^4.1.2",
     "readline-sync": "^1.4.10"
   }
 }
