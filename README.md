@@ -18,4 +18,5 @@ View App: [Birthday Leap Year](https://replit.com/@KHR/LeapYearCLI#index.js)
 
 <h3>Preview: </h3>
 
-![image](images/leap_year_birthday.PNG)
+<img width="657" alt="image" src="https://user-images.githubusercontent.com/49878564/144838013-7891704c-1ccf-4102-962b-05819af18912.png">
+
