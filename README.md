@@ -2,7 +2,7 @@
 
 A CLI app to check whether the user was born in a leap year or not.
 
- Neogcamp Bonus Assignment 1: Check if your Birthday is in leap year
+Neogcamp Bonus Assignment 1: Check if your Birthday is in leap year
 
 Features:
 - Determine if your Birthday is in leap year
